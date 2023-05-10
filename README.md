@@ -1,8 +1,8 @@
 <h1 align="center"> 
 	Hello world! :wave: <br>
-	<div style="font-size: 20px"> 
+	<div style="font-size: 14px"> 
 		I'm Pedro Messetti 
-		<img src="https://cdn3.emoji.gg/emojis/4297-pepe-hacker.gif" width="32px" height="32px" alt="hacker frog">
+		<img src="https://cdn3.emoji.gg/emojis/4297-pepe-hacker.gif" width="42px" height="42px" alt="hacker frog">
 	</div>
 </h1>
 
