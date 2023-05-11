@@ -6,11 +6,21 @@
 </h1>
 
 <h4>
-	Currently studying in 42 Lisboa
+	From Rio de Janeiro, Brasil. Currently living in Lisbon and studying in 42 Lisboa.
 </h4>
 
 <div align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhhhh8jv003008mf383nxx4t/stats?cursusId=21&coalitionId=110" alt="pmessett's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhhhh8jv003008mf383nxx4t/stats?cursusId=21&coalitionId=110" alt="my 42 status" /></a>
 </div>
 
-![snake gif](https://github.com/pedromessetti/pedromessetti/blob/output/github-contribution-grid-snake.gif)
+<h3>
+  My Projects
+</h3>
+
+- CURRENT: push_swap - The goal of this project is to make a sort algorithm for sort data on a stack in ascending order using restrict moves.
+
+- get_next_line - This functions returns a line read from a file descritor.
+
+- printf - Recode printf() function.
+
+- libft - My own library with a lot of useful functions that I code by myself.
