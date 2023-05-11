@@ -29,7 +29,7 @@
 
 - <a href="https://pedromessetti.github.io/alura-books/">Alura Books</a> - Full responsiveness project. Made using the concept of mobile first following a design on Figma.
 
-- <a href="https://treino-react.vercel.app/">Gym Organizer</> - In this application you can create cards for organize your gym training. SPA using React with Typescript.
+- <a href="https://treino-react.vercel.app/">Gym Organizer</a> - In this application you can create cards for organize your gym training. SPA using React with Typescript.
 
 <h3>
   Contact and Social Media :phone:
