@@ -14,7 +14,7 @@
 </div>
 
 <h3>
-  My Projects
+  Projects :rocket:
 </h3>
 
 - CURRENT: push_swap - The goal of this project is to make a sort algorithm for sort data on a stack in ascending order using restrict moves.
