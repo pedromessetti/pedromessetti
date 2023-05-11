@@ -30,6 +30,7 @@
 </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pedro-messetti/)
+
  [![Email](https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail)](mailto:pedromessetti@gmail.com)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp)](https://wa.me/+351924686213)
