@@ -24,3 +24,9 @@
 - printf - Recode printf() function.
 
 - libft - My own library with a lot of useful functions that I code by myself.
+
+<h3>
+  Contacts :phone:
+</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pedromessetti/) [![Email](https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail)](mailto:pedromessetti@gmail.com)
