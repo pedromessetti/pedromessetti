@@ -17,7 +17,7 @@
   Projects :rocket:
 </h3>
 
-- CURRENT: push_swap - The goal of this project is to make a sort algorithm for sort data on a stack in ascending order using restrict moves.
+- CURRENT: <a href="https://github.com/pedromessetti/push_swap">push_swap</a> - The goal of this project is to make a sort algorithm for sort data on a stack in ascending order using restrict moves.
 
 - get_next_line - This functions returns a line read from a file descritor.
 
