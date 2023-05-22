@@ -4,7 +4,12 @@
 	I'm Pedro Messetti 
 	<img src="https://cdn3.emoji.gg/emojis/4297-pepe-hacker.gif" width="64px" height="64px" alt="hacker frog">
 </h1>
+<div align="center" >
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-messetti/)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:pedromessetti@gmail.com)
+
+</div>
 <h4>
 	From Rio de Janeiro, Brasil. Currently living in Lisbon and studying in 42 Lisboa.
 </h4>
@@ -13,29 +18,48 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhhhh8jv003008mf383nxx4t/stats?cursusId=21&coalitionId=110" alt="my 42 status" /></a>
 </div>
 
-<h3>
-  Projects :rocket:
+<h3 >
+   <img src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="42 Logo" width="35px" align="center"> Projects
 </h3>
 
-- CURRENT: <a href="https://github.com/pedromessetti/push_swap">push_swap</a> - The goal of this project is to make a sort algorithm for sort data on a stack in ascending order using restrict moves.
+- <a href="https://github.com/pedromessetti/push_swap">push_swap</a> - Optimized data sorting algorithm
 
-- get_next_line - This functions returns a line read from a file descritor.
+- <a href="https://github.com/pedromessetti/get_next_line">get_next_line</a> - Read line from a file descritor
 
-- printf - Recode printf() function.
+- <a href="https://github.com/pedromessetti/ft_printf">ft_printf</a> - Recode of printf()
 
-- libft - My own library with a lot of useful functions that I code by myself.
+- <a href="https://github.com/pedromessetti/libft">libft</a> - My library with useful functions coded by myself
 
-- <a href="https://jogo-da-adivinhacao.vercel.app/">Guessing Game</a> - Browser game with voice recognition. Try to guest the random choose number through speech.
-
-- <a href="https://pedromessetti.github.io/alura-books/">Alura Books</a> - Full responsiveness project. Made using the concept of mobile first following a design on Figma.
-
-- <a href="https://treino-react.vercel.app/">Gym Organizer</a> - In this application you can create cards for organize your gym training. SPA using React with Typescript.
+- <a href="https://github.com/pedromessetti/piscine">Piscine</a> - My projects from 42 piscine
 
 <h3>
-  Contact and Social Media :phone:
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="35px" align="center"> Projects
 </h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pedro-messetti/) [![Email](https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail)](mailto:pedromessetti@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp)](https://wa.me/+351924686213)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram)](https://www.instagram.com/pedromessetti/)
+- <a href="https://github.com/pedromessetti/webscrapping">Webscrapping</a> - Scan and copy the content from brazilian stock market and generate a .CSV
 
+- <a href="https://github.com/pedromessetti/cadastro-simples">User Register</a> - Registers name and age of users
+
+- <a href="https://github.com/pedromessetti/eur-brl-conversor">EUR-BRL Conversor</a> - Converts Euro to Brazilian Real
+
+- <a href="https://github.com/pedromessetti/aulas-curso-em-video-python">Exercises</a> - Resolution of the exercises from Curso em Video Python
+
+<h3>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2752148-2284965.png?f=webp" alt="JS Logo" width="35px" align="center"> Projects
+</h3>
+
+- <a href="https://jogo-da-adivinhacao.vercel.app/">Guessing Game</a> - Browser game with voice recognition
+
+- <a href="https://pedromessetti.github.io/alura-books/">Alura Books</a> - Responsiveness web page using concept of mobile first
+
+- <a href="https://treino-react.vercel.app/">Gym Organizer</a> - Web application to organize your gym trainning
+
+<h2 align="center">
+	Social Media
+</h2>
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-ff69b4?style=for-the-badge&logo=instagram)](https://www.instagram.com/pedromessetti/) [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://twitter.com/pedro_messetti)
+
+</div>
