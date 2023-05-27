@@ -22,6 +22,8 @@
    <img src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="42 Logo" width="35px" align="center"> Projects
 </h3>
 
+- <a href="https://github.com/pedromessetti/push_swap">pipex</a> (current) - This project is about handling pipes.
+
 - <a href="https://github.com/pedromessetti/push_swap">push_swap</a> - Optimized data sorting algorithm
 
 - <a href="https://github.com/pedromessetti/get_next_line">get_next_line</a> - Read line from a file descritor
