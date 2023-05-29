@@ -50,8 +50,6 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2752148-2284965.png?f=webp" alt="JS Logo" width="30px" align="center"> Projects
 </h3>
 
-- <a href="https://pedromessetti.github.io/alura-books/">Alura Books</a> - Responsiveness web page using concept of mobile first
-
 - <a href="https://pedromessetti.github.io/mala-de-viagem/">Suitcase Organizer</a> - Website thats stores data in localhost
 
 - <a href="https://pedromessetti.github.io/interactive-keyboard/">Interactive Keyboard</a> - Website with the proposal to reproduce sounds of a simple drum
@@ -66,9 +64,11 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Logo" width="30px" align="center"> Projects
 </h3>
 
-- <a href="https://treino-react.vercel.app/">Gym Organizer</a> - React application to organize your gym trainning
+- <a href="https://patio-antico.vercel.app">Patio Antico</a> - Web application for a restaurant
 
-- <a href="https://estudos-do-dia.vercel.app/">Studys</a> - React application with cronometer to organize your studies schedule
+- <a href="https://treino-react.vercel.app/">Gym Organizer</a> - Web application to organize your gym trainning
+
+- <a href="https://estudos-do-dia.vercel.app/">Studys</a> - Web application with a to do list and a cronometer to organize your studies schedule
 
 - <a href="https://alura-space-psi.vercel.app/">Alura Space</a> - Gallery with space images
 
