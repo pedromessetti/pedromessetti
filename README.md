@@ -11,7 +11,7 @@
 
 </div>
 <h4>
-	From Rio de Janeiro, Brasil. Currently living in Lisbon and studying in 42 Lisboa.
+	From Rio de Janeiro, Brasil. Currently living in Lisbon and studying in 42 Lisbon.
 </h4>
 
 <div align="center">
@@ -47,14 +47,31 @@
 - <a href="https://github.com/pedromessetti/aulas-curso-em-video-python">Exercises</a> - Resolution of the exercises from Curso em Video Python
 
 <h3>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2752148-2284965.png?f=webp" alt="JS Logo" width="35px" align="center"> Projects
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2752148-2284965.png?f=webp" alt="JS Logo" width="30px" align="center"> Projects
 </h3>
-
-- <a href="https://jogo-da-adivinhacao.vercel.app/">Guessing Game</a> - Browser game with voice recognition
 
 - <a href="https://pedromessetti.github.io/alura-books/">Alura Books</a> - Responsiveness web page using concept of mobile first
 
-- <a href="https://treino-react.vercel.app/">Gym Organizer</a> - Web application to organize your gym trainning
+- <a href="https://pedromessetti.github.io/mala-de-viagem/">Suitcase Organizer</a> - Website thats stores data in localhost
+
+- <a href="https://pedromessetti.github.io/interactive-keyboard/">Interactive Keyboard</a> - Website with the proposal to reproduce sounds of a simple drum
+
+- <a href="https://jogo-da-adivinhacao.vercel.app/">Guessing Game</a> - Browser game with voice recognition
+
+- <a href="https://pedromessetti.github.io/pong-game/">Pong Game</a> - Classic pong game for browser.
+
+- <a href="https://pedromessetti.github.io/free-way-game/">Free Way Game</a> - Classic free-way game for browser.
+
+<h3>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Logo" width="30px" align="center"> Projects
+</h3>
+
+- <a href="https://treino-react.vercel.app/">Gym Organizer</a> - React application to organize your gym trainning
+
+- <a href="https://estudos-do-dia.vercel.app/">Studys</a> - React application with cronometer to organize your studies schedule
+
+- <a href="https://alura-space-psi.vercel.app/">Alura Space</a> - Gallery with space images
+
 
 <h2 align="center">
 	Social Media
