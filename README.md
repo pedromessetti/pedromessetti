@@ -22,7 +22,9 @@
    <img src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="42 Logo" width="35px" align="center"> Projects
 </h3>
 
-- <a href="https://github.com/pedromessetti/pipex">pipex</a> (current) - This project is about handling pipes.
+- <a href="https://github.com/pedromessetti/so_long">so_long</a> (current) - 2D Game
+
+- <a href="https://github.com/pedromessetti/pipex">pipex</a> - Replicate the functionality of the Unix pipe operator `|`
 
 - <a href="https://github.com/pedromessetti/push_swap">push_swap</a> - Optimized data sorting algorithm
 
@@ -38,7 +40,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="35px" align="center"> Projects
 </h3>
 
-- <a href="https://github.com/pedromessetti/webscrapping">Webscrapping</a> - Scan and copy the content from brazilian stock market and generate a .CSV
+- <a href="https://github.com/pedromessetti/brazilian-stock-analyzer">Brazilian Stock Analyzer</a> - Performs data analysis on brazilian stock market providing insights and visualizations to assist users in making investment decisions
 
 - <a href="https://github.com/pedromessetti/cadastro-simples">User Register</a> - Registers name and age of users
 
