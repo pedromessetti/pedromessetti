@@ -40,7 +40,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="35px" align="center"> Projects
 </h3>
 
-- <a href="https://github.com/pedromessetti/brazilian-stock-analyzer">Brazilian Stock Analyzer</a> - Performs data analysis on brazilian stock market providing insights and visualizations to assist users in making investment decisions
+- <a href="https://github.com/pedromessetti/brazilian-stock-analyzer">Brazilian Stock Analyzer</a> - Extracts information about brazilian stock market and performs basic data analysis
 
 - <a href="https://github.com/pedromessetti/cadastro-simples">User Register</a> - Registers name and age of users
 
