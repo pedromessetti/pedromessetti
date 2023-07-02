@@ -22,6 +22,8 @@
    <img src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="42 Logo" width="35px" align="center"> Projects
 </h3>
 
+- <a href="https://github.com/pedromessetti/minishell">minishell</a> [current] - My own shell
+
 - <a href="https://github.com/pedromessetti/so_long">so_long</a> - 2D Game
 
 - <a href="https://github.com/pedromessetti/pipex">pipex</a> - Replicate the functionality of the Unix pipe operator `|`
@@ -34,11 +36,15 @@
 
 - <a href="https://github.com/pedromessetti/libft">libft</a> - My library with useful functions coded by myself
 
+- <a href="https://github.com/pedromessetti/exam_rank_02">Exam Rank 02</a> - My solutions for the Rank 02 Exam
+  
 - <a href="https://github.com/pedromessetti/piscine">Piscine</a> - My projects from 42 piscine
 
 <h3>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="35px" align="center"> Projects
 </h3>
+
+- <a href="https://github.com/pedromessetti/investment-analysis-system">Investment Analysis</a> - System to support small investors 
 
 - <a href="https://github.com/pedromessetti/3d-printers-scraper">3D Printers Scraper</a> - Scrapes data from multiple websites and saves it to a database.
 
@@ -48,7 +54,7 @@
 
 - <a href="https://github.com/pedromessetti/eur-brl-conversor">EUR-BRL Conversor</a> - Converts Euro to Brazilian Real
 
-- <a href="https://github.com/pedromessetti/aulas-curso-em-video-python">Exercises</a> - Resolution of the exercises from Curso em Video Python
+- <a href="https://github.com/pedromessetti/aulas-curso-em-video-python">Exercises</a> - My solutions for the exercises from Curso em Video Python
 
 <h3>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2752148-2284965.png?f=webp" alt="JS Logo" width="30px" align="center"> Projects
