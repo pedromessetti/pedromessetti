@@ -36,7 +36,7 @@
 
 - <a href="https://github.com/pedromessetti/libft">libft</a> - My library with useful functions coded by myself
 
-- <a href="https://github.com/pedromessetti/exam_rank_02">Exam Rank 02</a> - My solutions for the Rank 02 Exam
+- <a href="https://github.com/pedromessetti/exam_rank02">Exam Rank 02</a> - My solutions for the Rank 02 Exam
   
 - <a href="https://github.com/pedromessetti/piscine">Piscine</a> - My projects from 42 piscine
 
