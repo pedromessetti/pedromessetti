@@ -32,7 +32,7 @@
 
 - <a href="https://github.com/pedromessetti/get_next_line">get_next_line</a> - Read line from a file descritor
 
-- <a href="https://github.com/pedromessetti/ft_printf">ft_printf</a> - Recode of printf()
+- <a href="https://github.com/pedromessetti/ft_printf">ft_printf</a> - Recode of `printf()`
 
 - <a href="https://github.com/pedromessetti/libft">libft</a> - My library with useful functions coded by myself
 
