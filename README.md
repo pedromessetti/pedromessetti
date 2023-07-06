@@ -13,7 +13,7 @@
 
 </div>
 <h4>
-	From Rio de Janeiro, Brasil. Currently living in Lisbon and studying in 42 Lisbon.
+	From Rio de Janeiro, Brasil. Currently living in Lisbon and studying at 42 Lisbon.
 </h4>
 
 <div align="center">
@@ -24,7 +24,9 @@
    <img src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="42 Logo" width="35px" align="center"> Projects
 </h3>
 
-- <a href="https://github.com/pedromessetti/so_long">so_long</a> (current) - 2D Game
+- <a href="https://github.com/pedromessetti/minishell">minishell</a> [current] - My own shell
+
+- <a href="https://github.com/pedromessetti/so_long">so_long</a> - 2D Game
 
 - <a href="https://github.com/pedromessetti/pipex">pipex</a> - Replicate the functionality of the Unix pipe operator `|`
 
@@ -32,23 +34,29 @@
 
 - <a href="https://github.com/pedromessetti/get_next_line">get_next_line</a> - Read line from a file descritor
 
-- <a href="https://github.com/pedromessetti/ft_printf">ft_printf</a> - Recode of printf()
+- <a href="https://github.com/pedromessetti/ft_printf">ft_printf</a> - Recode of `printf()`
 
 - <a href="https://github.com/pedromessetti/libft">libft</a> - My library with useful functions coded by myself
 
+- <a href="https://github.com/pedromessetti/exam_rank02">Exam Rank 02</a> - My solutions for the Rank 02 Exam
+  
 - <a href="https://github.com/pedromessetti/piscine">Piscine</a> - My projects from 42 piscine
 
 <h3>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="35px" align="center"> Projects
 </h3>
 
-- <a href="https://github.com/pedromessetti/brazilian-stock-analyzer">Brazilian Stock Analyzer</a> - Performs data analysis on brazilian stock market providing insights and visualizations to assist users in making investment decisions
+- <a href="https://github.com/pedromessetti/investment-analysis-system">Investment Analysis</a> - System to support small investors 
+
+- <a href="https://github.com/pedromessetti/3d-printers-scraper">3D Printers Scraper</a> - Scrapes data from multiple websites and saves it to a database.
+
+- <a href="https://github.com/pedromessetti/brazilian-stock-analyzer">Brazilian Stock Analyzer</a> - Extracts information about brazilian stock market and performs basic data analysis
 
 - <a href="https://github.com/pedromessetti/cadastro-simples">User Register</a> - Registers name and age of users
 
 - <a href="https://github.com/pedromessetti/eur-brl-conversor">EUR-BRL Conversor</a> - Converts Euro to Brazilian Real
 
-- <a href="https://github.com/pedromessetti/aulas-curso-em-video-python">Exercises</a> - Resolution of the exercises from Curso em Video Python
+- <a href="https://github.com/pedromessetti/aulas-curso-em-video-python">Exercises</a> - My solutions for the exercises from Curso em Video Python
 
 <h3>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2752148-2284965.png?f=webp" alt="JS Logo" width="30px" align="center"> Projects
@@ -75,6 +83,18 @@
 - <a href="https://estudos-do-dia.vercel.app/">Studys</a> - Web application with a to do list and a cronometer to organize your studies schedule
 
 - <a href="https://alura-space-psi.vercel.app/">Alura Space</a> - Gallery with space images
+
+<h3>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular Logo" width="35px" align="center"> Projects
+</h3>
+
+- <a href="https://angular-login-page-two.vercel.app/">Login Page</a> - Web application created to explore and learn more about Angular framework
+
+<br><div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromessetti&hide_progress=true&langs_count=8&custom_title=Languages&theme=gruvbox&hide=Makefile)
+
+</div>
 
 
 <h2 align="center">
