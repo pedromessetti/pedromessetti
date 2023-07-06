@@ -1,3 +1,14 @@
+<style>
+  .portfolio-link {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+</style>
+
 <h1 align="center"> 
 	Hello world! :wave: 
 	<br>
@@ -9,7 +20,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-messetti/)
 [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:pedromessetti@gmail.com)
 
-<a href="pedromessetti-portfolio.vercel.app/" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Portfolio</a>
+
+[Portfolio](https://pedromessetti-portfolio.vercel.app/){: .portfolio-link}
+
 
 </div>
 <h4>
