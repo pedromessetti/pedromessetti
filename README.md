@@ -17,13 +17,11 @@
 </div>
 
 </div>
-From: Rio de Janeiro - Brasil :flight_departure:
+Rio de Janeiro - Brasil :airplane: Lisboa - Portugal
 <br>
-To: Lisboa - Portugal :flight_arrival:
+:open_book: Software Development Student
 <br>
-:open_book: Studying Software Development
-<br>
-:school: at 42 Lisboa
+:school: At 42 Lisboa
 <br><br>
 
 <div align="center">
