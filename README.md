@@ -17,7 +17,7 @@
 </div>
 
 </div>
-Rio de Janeiro - Brasil :airplane: Lisboa - Portugal
+:round_pushpin: Lisboa, Portugal
 <br>
 :open_book: Software Development Student
 <br>
