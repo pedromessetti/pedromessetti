@@ -15,19 +15,25 @@
 </div>
 
 </div>
-<h4>
-	From Rio de Janeiro, Brasil. Currently living in Lisbon and studying at 42 Lisbon.
+<h4 align="center">
+	:flight_departure: Rio de Janeiro - Brasil :flight_arrival: Lisboa - Portugal
+	<br>
+	:open_book: Studying Software Development at 42 Lisboa.
 </h4>
 
 <div align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhhhh8jv003008mf383nxx4t/stats?cursusId=21&coalitionId=110" alt="my 42 status" /></a>
 </div>
 
+<!-- 42 Projects -->
+
 <h3 >
    <img src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="42 Logo" width="35px" align="center"> Projects
 </h3>
 
-- <a href="https://github.com/pedromessetti/minishell">minishell</a> [current] - My own shell
+- <a href="https://github.com/pedromessetti/minishell">minishell</a> [in progress] - My own shell
+
+- <a href="https://github.com/pedromessetti/cpp00">C++ Module 00</a>
 
 - <a href="https://github.com/pedromessetti/so_long">so_long</a> - 2D Game
 
@@ -45,21 +51,29 @@
   
 - <a href="https://github.com/pedromessetti/piscine">Piscine</a> - My projects from 42 piscine
 
+<!-- Python Projects -->
+
 <h3>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="35px" align="center"> Projects
 </h3>
 
-- <a href="https://github.com/pedromessetti/investment-analysis-system">Investment Analysis</a> - System to support small investors 
+- <a href="https://github.com/pedromessetti/system">Investment Analysis System</a> [in progress] - Provide insights to small investors
 
-- <a href="https://github.com/pedromessetti/3d-printers-scraper">3D Printers Scraper</a> - Scrapes data from multiple websites and saves it to a database.
+- <a href="https://github.com/pedromessetti/sts-translation">STS Translation Tool</a> - Speech to speech translation
 
-- <a href="https://github.com/pedromessetti/brazilian-stock-analyzer">Brazilian Stock Analyzer</a> - Extracts information about brazilian stock market and performs basic data analysis
+- <a href="https://github.com/pedromessetti/amazonscraper">Amazon Scraper</a> - Scrapes product information from Amazon and store in a database
+
+- <a href="https://github.com/pedromessetti/3d-printers-scraper">3D Printers Scraper</a> - Scrapes data from multiple websites and store in a database
+
+- <a href="https://github.com/pedromessetti/brazilian-stock-analyzer">Brazilian Stock Analyzer</a> - Scrapes and analyze data about brazilian stock market
 
 - <a href="https://github.com/pedromessetti/cadastro-simples">User Register</a> - Registers name and age of users
 
 - <a href="https://github.com/pedromessetti/eur-brl-conversor">EUR-BRL Conversor</a> - Converts Euro to Brazilian Real
 
 - <a href="https://github.com/pedromessetti/aulas-curso-em-video-python">Exercises</a> - My solutions for the exercises from Curso em Video Python
+
+<!-- JavaScript Projects -->
 
 <h3>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2752148-2284965.png?f=webp" alt="JS Logo" width="30px" align="center"> Projects
@@ -75,6 +89,8 @@
 
 - <a href="https://pedromessetti.github.io/free-way-game/">Free Way Game</a> - Classic free-way game for browser.
 
+<!-- React Projects -->
+
 <h3>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Logo" width="30px" align="center"> Projects
 </h3>
@@ -87,18 +103,23 @@
 
 - <a href="https://alura-space-psi.vercel.app/">Alura Space</a> - Gallery with space images
 
+<!-- Angular Projects -->
+
 <h3>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular Logo" width="35px" align="center"> Projects
 </h3>
 
 - <a href="https://angular-login-page-two.vercel.app/">Login Page</a> - Web application created to explore and learn more about Angular framework
 
+<!-- Languages Badge -->
+
 <br><div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromessetti&hide_progress=true&langs_count=8&custom_title=Languages&theme=gruvbox&hide=Makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromessetti&hide_progress=true&langs_count=8&theme=gruvbox&hide=XSLT,Cython)
 
 </div>
 
+<!-- Social Medias -->
 
 <h2 align="center">
 	Social Media
