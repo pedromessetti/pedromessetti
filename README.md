@@ -1,23 +1,32 @@
-<h1 align="center"> 
-	Hello world! :wave: 
-	<br>
+<!-- Header image -->
+
+<div class="header">
+ <h1 align="center" style="color: #201114;"> 
+	Hello world :wave: 
+	<br></br>
 	I'm Pedro Messetti 
-	<img src="https://cdn3.emoji.gg/emojis/4297-pepe-hacker.gif" width="64px" height="64px" alt="hacker frog">
-</h1>
-<div align="center" >
+	<img src="https://cdn3.emoji.gg/emojis/4297-pepe-hacker.gif" width="64px" height="64px" alt="hacker frog" style="background-color: #febac9;">
+	<br></br>
+ <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-messetti/)
-[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:pedromessetti@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-messetti/)
+ [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:pedromessetti@gmail.com)
 
-<a href="https://pedromessetti-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Check my Portfolio</a>
-
+ <a href="https://pedromessetti-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" class="animated-button">Portfolio</a>
+ </h1>
+ </div>
 </div>
 
-</div>
+<!-- Portfolio link -->
+<div align="center">
+
 <h4>
 	From Rio de Janeiro, Brasil. Currently living in Lisbon and studying at 42 Lisbon.
 </h4>
 
+</div>
+
+<!-- 42 Status -->
 <div align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhhhh8jv003008mf383nxx4t/stats?cursusId=21&coalitionId=110" alt="my 42 status" /></a>
 </div>
@@ -108,3 +117,38 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-ff69b4?style=for-the-badge&logo=instagram)](https://www.instagram.com/pedromessetti/) [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://twitter.com/pedro_messetti)
 
 </div>
+
+<style>
+  .animated-button {
+    display: flex;
+	justify-content: center;
+    font-family: "Ubuntu";
+	font-size: 30px;
+	text-decoration: none;
+	cursor: pointer;
+	transition: all 0.3s ease;
+    animation: pulse 2s infinite;
+  }
+
+  .animated-button:hover {
+	letter-spacing: 5px;
+  }
+
+  .header {
+	background-color: #febac9;
+	padding: 20px 0 0 0;
+	border-radius: 20px
+  }
+
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.05);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+</style>
