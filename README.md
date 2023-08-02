@@ -19,9 +19,9 @@
 </div>
 :round_pushpin: Lisboa, Portugal
 <br>
-:open_book: Software Development Student
+:open_book: Software Developer Student
 <br>
-:school: At 42 Lisboa
+:school: 42 Lisboa
 <br><br>
 
 <div align="center">
