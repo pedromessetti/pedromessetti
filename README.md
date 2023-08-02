@@ -10,16 +10,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-messetti/)
 [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:pedromessetti@gmail.com)
 
+<h2>
 <a href="https://pedromessetti-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">:point_right: Portfolio :point_left:</a>
+</h2>
 
 </div>
 
 </div>
-<h4 align="center">
-	:flight_departure: Rio de Janeiro - Brasil :flight_arrival: Lisboa - Portugal
-	<br>
-	:open_book: Studying Software Development at 42 Lisboa.
-</h4>
+:flight_departure: Rio de Janeiro - Brasil :flight_arrival: Lisboa - Portugal
+<br>
+:open_book: Studying Software Development at 42 Lisboa.
+<br><br>
 
 <div align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhhhh8jv003008mf383nxx4t/stats?cursusId=21&coalitionId=110" alt="my 42 status" /></a>
