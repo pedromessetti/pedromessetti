@@ -10,9 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-messetti/)
 [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:pedromessetti@gmail.com)
 
- <div style="font-size: 30px">
-  <a href="https://pedromessetti-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">:point_right: Portfolio :point_left:</a> 
- </div>
+<a href="https://pedromessetti-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">:point_right: Portfolio :point_left:</a>
+
 </div>
 
 </div>
