@@ -17,9 +17,13 @@
 </div>
 
 </div>
-:flight_departure: Rio de Janeiro - Brasil :flight_arrival: Lisboa - Portugal
+From: Rio de Janeiro - Brasil :flight_departure:
 <br>
-:open_book: Studying Software Development at 42 Lisboa.
+To: Lisboa - Portugal :flight_arrival:
+<br>
+:open_book: Studying Software Development
+<br>
+:school: at 42 Lisboa
 <br><br>
 
 <div align="center">
