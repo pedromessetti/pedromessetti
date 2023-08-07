@@ -17,7 +17,7 @@
 </div>
 
 </div>
-:round_pushpin: Lisboa, Portugal
+:round_pushpin: Lisbon, Portugal
 <br>
 :open_book: Software Developer Student
 <br>
@@ -36,7 +36,7 @@
 
 - <a href="https://github.com/pedromessetti/minishell">minishell</a> [in progress] - My own shell
 
-- <a href="https://github.com/pedromessetti/cpp00">C++ Module 00</a>
+- <a href="https://github.com/pedromessetti/philosophers">Philosophers</a> - The dinning philosophers problem
 
 - <a href="https://github.com/pedromessetti/so_long">so_long</a> - 2D Game
 
@@ -70,11 +70,7 @@
 
 - <a href="https://github.com/pedromessetti/brazilian-stock-analyzer">Brazilian Stock Analyzer</a> - Scrapes and analyze data about brazilian stock market
 
-- <a href="https://github.com/pedromessetti/cadastro-simples">User Register</a> - Registers name and age of users
-
-- <a href="https://github.com/pedromessetti/eur-brl-conversor">EUR-BRL Conversor</a> - Converts Euro to Brazilian Real
-
-- <a href="https://github.com/pedromessetti/aulas-curso-em-video-python">Exercises</a> - My solutions for the exercises from Curso em Video Python
+- <a href="https://github.com/pedromessetti/leetcode">LeetCode</a> -  My solutions to LeetCode exercises
 
 <!-- JavaScript Projects -->
 
