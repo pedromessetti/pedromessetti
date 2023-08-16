@@ -36,7 +36,7 @@
 
 - <a href="https://github.com/pedromessetti/minishell">minishell</a> [in progress] - My own shell
 
-- <a href="https://github.com/pedromessetti/philosophers">Philosophers</a> - The dinning philosophers problem
+- <a href="https://github.com/pedromessetti/philosophers">philosophers</a> - The dinning philosophers problem
 
 - <a href="https://github.com/pedromessetti/so_long">so_long</a> - 2D Game
 
@@ -50,7 +50,9 @@
 
 - <a href="https://github.com/pedromessetti/libft">libft</a> - My library with useful functions coded by myself
 
-- <a href="https://github.com/pedromessetti/exam_rank02">Exam Rank 02</a> - My solutions for the Rank 02 Exam
+- <a href="https://github.com/pedromessetti/exam_rank03">Exam Rank 03</a> - Solutions for Rank 03 Exam
+
+- <a href="https://github.com/pedromessetti/exam_rank02">Exam Rank 02</a> - Solutions for Rank 02 Exam
   
 - <a href="https://github.com/pedromessetti/piscine">Piscine</a> - My projects from 42 piscine
 
