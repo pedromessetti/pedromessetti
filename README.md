@@ -28,6 +28,14 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhhhh8jv003008mf383nxx4t/stats?cursusId=21&coalitionId=110" alt="my 42 status" /></a>
 </div>
 
+<!-- Go Projects -->
+
+<h3 >
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" alt="Go Logo" width="50px"> Projects
+</h3>
+
+- <a href="https://github.com/pedromessetti/go_basics">Go Basics</a> [in progress] - My studies and exercises
+
 <!-- 42 Projects -->
 
 <h3 >
@@ -62,15 +70,15 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="35px" align="center"> Projects
 </h3>
 
-- <a href="https://github.com/pedromessetti/system">Investment Analysis System</a> [in progress] - Provide insights to small investors
+- <a href="https://github.com/pedromessetti/system">Investment Analysis System</a> - Provide insights to small investors
 
 - <a href="https://github.com/pedromessetti/sts-translation">STS Translation Tool</a> - Speech to speech translation
 
-- <a href="https://github.com/pedromessetti/amazonscraper">Amazon Scraper</a> - Scrapes product information from Amazon and store in a database
+- <a href="https://github.com/pedromessetti/amazonscraper">Amazon Scraper</a> - Scrapes product information from Amazon and store in database
 
-- <a href="https://github.com/pedromessetti/3d-printers-scraper">3D Printers Scraper</a> - Scrapes data from multiple websites and store in a database
+- <a href="https://github.com/pedromessetti/3d-printers-scraper">3D Printers Scraper</a> - Scrapes 3d printers data from multiple websites and store in database
 
-- <a href="https://github.com/pedromessetti/brazilian-stock-analyzer">Brazilian Stock Analyzer</a> - Scrapes and analyze data about brazilian stock market
+- <a href="https://github.com/pedromessetti/brazilian-stock-analyzer">Brazilian Stock Analyzer</a> - Scrapes and analyze data from the brazilian stock market
 
 - <a href="https://github.com/pedromessetti/leetcode">LeetCode</a> -  My solutions to LeetCode exercises
 
@@ -90,25 +98,16 @@
 
 - <a href="https://pedromessetti.github.io/free-way-game/">Free Way Game</a> - Classic free-way game for browser.
 
-<!-- React Projects -->
+<!-- React and Angular Projects -->
 
 <h3>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Logo" width="30px" align="center"> Projects
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Logo" width="30px" align="center"> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular Logo" width="35px" align="center"> Projects
 </h3>
-
-- <a href="https://patio-antico.vercel.app">Patio Antico</a> - Web application for a restaurant
 
 - <a href="https://treino-react.vercel.app/">Gym Organizer</a> - Web application to organize your gym trainning
 
 - <a href="https://estudos-do-dia.vercel.app/">Studys</a> - Web application with a to do list and a cronometer to organize your studies schedule
-
-- <a href="https://alura-space-psi.vercel.app/">Alura Space</a> - Gallery with space images
-
-<!-- Angular Projects -->
-
-<h3>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular Logo" width="35px" align="center"> Projects
-</h3>
 
 - <a href="https://angular-login-page-two.vercel.app/">Login Page</a> - Web application created to explore and learn more about Angular framework
 
