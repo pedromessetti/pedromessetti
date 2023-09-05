@@ -24,9 +24,11 @@
 :school: 42 Lisboa
 <br><br>
 
+<!-- Comment because they are having problems with maintenance
 <div align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhhhh8jv003008mf383nxx4t/stats?cursusId=21&coalitionId=110" alt="my 42 status" /></a>
 </div>
+-->
 
 <!-- Go Projects -->
 
@@ -35,6 +37,10 @@
 </h3>
 
 - <a href="https://github.com/pedromessetti/go_basics">Go Basics</a> [in progress] - My studies and exercises
+  
+- <a href="https://github.com/pedromessetti/file_tagger">File Tagger</a> - Generates random user data and tag sensitive information
+
+- <a href="https://github.com/pedromessetti/file_tagger">Authentication System</a> - User sign up, login and user management
 
 <!-- 42 Projects -->
 
