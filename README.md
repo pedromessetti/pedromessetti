@@ -82,7 +82,7 @@
 
 - <a href="https://github.com/pedromessetti/amazonscraper">Amazon Scraper</a> - Scrapes product information from Amazon and store in database
 
-- <a href="https://github.com/pedromessetti/3d-printers-scraper">3D Printers Scraper</a> - Scrapes 3d printers data from multiple websites and store in database
+- <a href="https://github.com/pedromessetti/3d-printers-scraper">3D Printers Scraper</a> - Scrapes data from multiple websites and and store in database
 
 - <a href="https://github.com/pedromessetti/brazilian-stock-analyzer">Brazilian Stock Analyzer</a> - Scrapes and analyze data from the brazilian stock market
 
