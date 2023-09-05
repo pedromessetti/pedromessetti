@@ -40,7 +40,7 @@
   
 - <a href="https://github.com/pedromessetti/file_tagger">File Tagger</a> - Generates random user data and tag sensitive information
 
-- <a href="https://github.com/pedromessetti/file_tagger">Authentication System</a> - User sign up, login and user management
+- <a href="https://github.com/pedromessetti/auth_system">Authentication System</a> - User sign up, login and user management
 
 <!-- 42 Projects -->
 
