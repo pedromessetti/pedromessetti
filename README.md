@@ -12,14 +12,6 @@
 
 </div>
 
-</div>
-:round_pushpin: Lisbon, Portugal
-<br>
-:open_book: Software Developer Student
-<br>
-:school: 42 Lisboa
-<br><br>
-
 <!-- Comment because they are having problems with maintenance
 <div align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhhhh8jv003008mf383nxx4t/stats?cursusId=21&coalitionId=110" alt="my 42 status" /></a>
